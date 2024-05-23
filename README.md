@@ -5,7 +5,7 @@ I am a Computer Science student who enjoys programming and is looking to pursue 
 
 * 🌍  I'm based in Trowbridge, UK
 * ✉️  You can contact me at [rorypoulter3@outlook.com](mailto:rorypoulter3@outlook.com)
-* 🚀  I'm currently working on [Blackjack Bot](http://https://github.com/RoryPoulter/Blackjack-Bot)
+* 🚀  I'm currently working on [Blackjack Bot](http://github.com/RoryPoulter/Blackjack-Bot)
 * 🧠  I'm learning Bash
 
 ### Skills
