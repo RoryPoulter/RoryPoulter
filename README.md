@@ -24,6 +24,7 @@ I am a Computer Science student at Durham University who enjoys programming and 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"><img src="https://github.com/RoryPoulter/RoryPoulter/assets/118304377/62ce11ce-310d-46f1-b93a-e8d4007b93fe" width="36" height="36" alt="SQLite"></a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b009f230-02a1-4ccd-a810-d1d28c73d205" width="36" height="36" alt="Godot"></a>
 </p>
 
 
