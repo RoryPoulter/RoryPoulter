@@ -4,7 +4,7 @@ Hi 👋 My name is Rory Poulter
 I'm a Computer Science undergraduate at Durham University. My main experience is in Python, a variety of web technologies, and SQL databases, but I have also dabbled in other areas such as game development, memory management, and machine learning.
 
 * 🌍  I'm based in Durham, County Durham, England, GBR
-* 🖥️  See my portfolio at [My Portfolio](http://https://rorypoulter.github.io/)
+* 🖥️  See my portfolio at [My Portfolio](https://rorypoulter.github.io/)
 * ✉️  You can contact me at [rorypoulter3@outlook.com](mailto:rorypoulter3@outlook.com)
 * 🧠  I'm currently learning React
 
